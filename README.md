@@ -1,1 +1,1 @@
-# 18-01-20_CodeAlong_LinearReg_AnkitJha
+# linear_regression_tutorial
